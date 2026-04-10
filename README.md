@@ -15,8 +15,8 @@ A repository dedicated to solving the **LeetCode Daily Challenges** for April 20
 | 01 | Find the Largest Area | [Problem 3341](https://leetcode.com/problems/find-the-maximum-area-to-build-a-conveyor) | ✅ |
 | 02 | Maximum Amount of Money Robot Can Earn | [Problem 3418](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/) | ✅ |
 | 03 | Maximum Walls Destroyed by Robots | [Problem 3661](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/) | ✅ |
-| 04 | Minimize Maximum Edge Weight | [Problem 3420](https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-a-graph/) | ✅ |
-| 05 | Special Array II | [Problem 3152](https://leetcode.com/problems/special-array-ii/) | ✅ |
+| 04 | Decode Slanted CipherText | [Problem 2075](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | ✅ |
+| 05 | Robot Return To Origin | [Problem 657](https://leetcode.com/problems/robot-return-to-origin/) | ✅ |
 | 06 | *Upcoming...* | [Daily Link](https://leetcode.com/problemset/all/) | ⏳ |
 
 ---
