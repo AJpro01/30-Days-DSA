@@ -2,7 +2,7 @@
 
 ![LeetCode Streak](https://img.shields.io/badge/Streak-5%2F30%20Days-fire?style=for-the-badge&logo=leetcode)
 ![Language](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=c%2B%2B)
-![University](https://img.shields.io/badge/College-MSIT%20Delhi-red?style=for-the-badge)
+
 
 A repository dedicated to solving the **LeetCode Daily Challenges** for April 2026. This project tracks my algorithmic journey, focus on optimization, and daily consistency.
 
