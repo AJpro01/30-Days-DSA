@@ -17,7 +17,7 @@ A repository dedicated to solving the **LeetCode Daily Challenges** for April 20
 | 03 | Maximum Walls Destroyed by Robots | [Problem 3661](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/) | ✅ |
 | 04 | Decode Slanted CipherText | [Problem 2075](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | ✅ |
 | 05 | Robot Return To Origin | [Problem 657](https://leetcode.com/problems/robot-return-to-origin/) | ✅ |
-| 06 | *Upcoming...* | [Daily Link](https://leetcode.com/problemset/all/) | ⏳ |
+| 06 | Walking Robot Simulation | [Problem 874](https://leetcode.com/problems/walking-robot-simulation/) | ✅ |
 
 ---
 
