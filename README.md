@@ -43,7 +43,7 @@ Example:
 ---
 
 ## 👤 Links
-* **LeetCode Profile:** [AJpro01](https://leetcode.com/u/AJpro01/)
+* **LeetCode Profile:** [Aman Jain](https://leetcode.com/u/i7XrofaPXW/)
 * **GitHub Repository:** [30-Days-DSA](https://github.com/AJpro01/30-Days-DSA)
 
 ---
