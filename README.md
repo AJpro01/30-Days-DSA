@@ -17,7 +17,11 @@ A repository dedicated to solving the **LeetCode Daily Challenges** for April 20
 | 03 | Maximum Walls Destroyed by Robots | [Problem 3661](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/) | ✅ |
 | 04 | Decode Slanted CipherText | [Problem 2075](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | ✅ |
 | 05 | Robot Return To Origin | [Problem 657](https://leetcode.com/problems/robot-return-to-origin/) | ✅ |
-| 06 | Walking Robot Simulation | [Problem 874](https://leetcode.com/problems/walking-robot-simulation/) | ✅ |
+| 06 | Walking Robot Simulation I | [Problem 874](https://leetcode.com/problems/walking-robot-simulation/) | ✅ |
+| 07 | Walking Robot Simulation II | [Problem 2069](https://leetcode.com/problems/walking-robot-simulation-ii/) | ✅ |
+| 08 | XOR After Range Multiplication Queries I | [Problem 3653](https://leetcode.com/problems/xor-after-operations/) | ✅ |
+| 09 | XOR After Range Multiplication Queries II | [Problem 3655](https://leetcode.com/problems/xor-after-operations-ii/) | ✅ |
+| 10 | Minimum Distance Between Three Equal Elements I | [Problem 3740](https://leetcode.com/problems/minimum-distance-between-three-equal-elements/) | ✅ |
 
 ---
 
