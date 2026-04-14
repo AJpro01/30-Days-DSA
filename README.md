@@ -22,6 +22,10 @@ A repository dedicated to solving the **LeetCode Daily Challenges** for April 20
 | 08 | XOR After Range Multiplication Queries I | [Problem 3653](https://leetcode.com/problems/xor-after-operations/) | ✅ |
 | 09 | XOR After Range Multiplication Queries II | [Problem 3655](https://leetcode.com/problems/xor-after-operations-ii/) | ✅ |
 | 10 | Minimum Distance Between Three Equal Elements I | [Problem 3740](https://leetcode.com/problems/minimum-distance-between-three-equal-elements/) | ✅ |
+| 11 | Minimum Distance Between Three Equal Elements II | [Problem 3741](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/) | ✅ |
+| 12 | Minimum Distance To Type A Word Using Two Fingers | [Problem 1320](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | ✅ |
+| 13 | Minimum Distance To Target Element | [Problem 1848](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | ✅ |
+| 14 | Minimum Total Distance Traveled | [Problem 2463](https://leetcode.com/problems/minimum-total-distance-traveled/) | ✅ |
 
 ---
 
