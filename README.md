@@ -1,6 +1,6 @@
 # 🚀 30 Days of LeetCode: April 2026 Edition
 
-![LeetCode Streak](https://img.shields.io/badge/Streak-10%2F30%20Days-fire?style=for-the-badge&logo=leetcode)
+![LeetCode Streak](https://img.shields.io/badge/Streak-14%2F30%20Days-fire?style=for-the-badge&logo=leetcode)
 ![Language](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=c%2B%2B)
 
 
