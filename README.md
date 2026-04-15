@@ -1,6 +1,6 @@
 # 🚀 30 Days of LeetCode: April 2026 Edition
 
-![LeetCode Streak](https://img.shields.io/badge/Streak-14%2F30%20Days-fire?style=for-the-badge&logo=leetcode)
+![LeetCode Streak](https://img.shields.io/badge/Streak-15%2F30%20Days-fire?style=for-the-badge&logo=leetcode)
 ![Language](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=c%2B%2B)
 
 
@@ -26,6 +26,7 @@ A repository dedicated to solving the **LeetCode Daily Challenges** for April 20
 | 12 | Minimum Distance To Type A Word Using Two Fingers | [Problem 1320](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | ✅ |
 | 13 | Minimum Distance To Target Element | [Problem 1848](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | ✅ |
 | 14 | Minimum Total Distance Traveled | [Problem 2463](https://leetcode.com/problems/minimum-total-distance-traveled/) | ✅ |
+| 15 | Shortest Distance To Target String In A Circular Array | [Problem 2515](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | ✅ |
 
 ---
 
