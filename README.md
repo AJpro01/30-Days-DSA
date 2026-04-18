@@ -1,6 +1,6 @@
 # 🚀 30 Days of LeetCode: April 2026 Edition
 
-![LeetCode Streak](https://img.shields.io/badge/Streak-17%2F30%20Days-fire?style=for-the-badge&logo=leetcode)
+![LeetCode Streak](https://img.shields.io/badge/Streak-18%2F30%20Days-fire?style=for-the-badge&logo=leetcode)
 ![Language](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=c%2B%2B)
 
 
@@ -28,7 +28,8 @@ A repository dedicated to solving the **LeetCode Daily Challenges** for April 20
 | 14 | Minimum Total Distance Traveled | [Problem 2463](https://leetcode.com/problems/minimum-total-distance-traveled/) | ✅ |
 | 15 | Shortest Distance To Target String In A Circular Array | [Problem 2515](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | ✅ |
 | 16 | Closest Equal Element Queries | [Problem 3488](https://leetcode.com/problems/closest-equal-element-in-array/) | ✅ |
-| 17 | Minimum Absolute Distance Between Mirror Pairs | [problem 3761](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | ✅ |
+| 17 | Minimum Absolute Distance Between Mirror Pairs | [Problem 3761](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | ✅ |
+| 18 | Mirror Distance Of An Integer | [Problem 3783](https://leetcode.com/problems/mirror-distance-of-an-integer/) | ✅ |
 
 ---
 
