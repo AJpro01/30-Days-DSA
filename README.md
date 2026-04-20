@@ -1,6 +1,6 @@
 # 🚀 30 Days of LeetCode: April 2026 Edition
 
-![LeetCode Streak](https://img.shields.io/badge/Streak-19%2F30%20Days-fire?style=for-the-badge&logo=leetcode)
+![LeetCode Streak](https://img.shields.io/badge/Streak-20%2F30%20Days-fire?style=for-the-badge&logo=leetcode)
 ![Language](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=c%2B%2B)
 
 
@@ -31,6 +31,8 @@ A repository dedicated to solving the **LeetCode Daily Challenges** for April 20
 | 17 | Minimum Absolute Distance Between Mirror Pairs | [Problem 3761](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | ✅ |
 | 18 | Mirror Distance Of An Integer | [Problem 3783](https://leetcode.com/problems/mirror-distance-of-an-integer/) | ✅ |
 | 19 | Maximum Distance Between A Pair Of Values | [Problem 1855](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | ✅ |
+| 20 | Two Farthest Houses With Different Colors | [Problem 2078](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | ✅ |
+
 ---
 
 ## 📂 Repository Structure
