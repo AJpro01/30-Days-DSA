@@ -10,7 +10,6 @@ A repository dedicated to solving the **LeetCode Daily Challenges** for April 20
 
 ## 📅 Daily Progress (April 2026)
 
-| :--- | :--- | :--- | :--- | :---: |
 | Day | Problem Name | Difficulty | Link | Status |
 | 01 | Find the Largest Area | Medium | [Problem 3341](https://leetcode.com/problems/find-the-maximum-area-to-build-a-conveyor) | ✅ |
 | 02 | Maximum Amount of Money Robot Can Earn | Medium | [Problem 3418](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/) | ✅ |
