@@ -10,7 +10,6 @@ A repository dedicated to solving the **LeetCode Daily Challenges** for April 20
 
 ## 📅 Daily Progress (April 2026)
 
-| Day | Problem Name | Link | Status |
 | :--- | :--- | :--- | :--- | :---: |
 | Day | Problem Name | Difficulty | Link | Status |
 | 01 | Find the Largest Area | Medium | [Problem 3341](https://leetcode.com/problems/find-the-maximum-area-to-build-a-conveyor) | ✅ |
