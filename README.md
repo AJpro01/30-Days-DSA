@@ -11,38 +11,38 @@ A repository dedicated to solving the **LeetCode Daily Challenges** for April 20
 
 ## 📅 Daily Progress (April 2026)
 
-| Day | Problem Name | Difficulty | Link | Solution | Status |
-|---|---|---|---|---|---|
-| 01 | Find the Largest Area | Medium | [Problem 3341](https://leetcode.com/problems/find-the-maximum-area-to-build-a-conveyor) | [C++](./Day01/FindTheLargestArea.cpp) | ✅ |
-| 02 | Maximum Amount of Money Robot Can Earn | Medium | [Problem 3418](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/) | [C++](./Day02/MaximumAmountOfMoneyRobotCanEarn.cpp) | ✅ |
-| 03 | Maximum Walls Destroyed by Robots | Hard | [Problem 3661](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/) | [C++](./Day03/MaximumWallsDestroyedByRobots.cpp) | ✅ |
-| 04 | Decode Slanted CipherText | Medium | [Problem 2075](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | [C++](./Day04/DecodeSlantedCipherText.cpp) | ✅ |
-| 05 | Robot Return To Origin | Easy | [Problem 657](https://leetcode.com/problems/robot-return-to-origin/) | [C++](./Day05/RobotReturnToOrigin.cpp) | ✅ |
-| 06 | Walking Robot Simulation I | Medium | [Problem 874](https://leetcode.com/problems/walking-robot-simulation/) | [C++](./Day06/WalkingRobotSimulation.cpp) | ✅ |
-| 07 | Walking Robot Simulation II | Medium | [Problem 2069](https://leetcode.com/problems/walking-robot-simulation-ii/) | [C++](./Day07/WalkingRobotSimulationII.cpp) | ✅ |
-| 08 | XOR After Range Multiplication Queries I | Medium | [Problem 3653](https://leetcode.com/problems/xor-after-operations/) | [C++](./Day08/XORAfterRangeMultiplicationQueriesI.cpp) | ✅ |
-| 09 | XOR After Range Multiplication Queries II | Hard | [Problem 3655](https://leetcode.com/problems/xor-after-operations-ii/) | [C++](./Day09/XORAfterRangeMultiplicationQueriesII.cpp) | ✅ |
-| 10 | Minimum Distance Between Three Equal Elements I | Easy | [Problem 3740](https://leetcode.com/problems/minimum-distance-between-three-equal-elements/) | [C++](./Day10/MinimumDistanceBetweenThreeEqualElements.cpp) | ✅ |
-| 11 | Minimum Distance Between Three Equal Elements II | Medium | [Problem 3741](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/) | [C++](./Day11/MinimumDistanceBetweenThreeEqualElementsII.cpp) | ✅ |
-| 12 | Minimum Distance To Type A Word Using Two Fingers | Hard | [Problem 1320](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [C++](./Day12/MinimumDistanceToTypeAWordUsingTwoFingers.cpp) | ✅ |
-| 13 | Minimum Distance To Target Element | Easy | [Problem 1848](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | [C++](./Day13/MinimumDistanceToTargetElement.cpp) | ✅ |
-| 14 | Minimum Total Distance Traveled | Hard | [Problem 2463](https://leetcode.com/problems/minimum-total-distance-traveled/) | [C++](./Day14/MinimumTotalDistanceTraveled.cpp) | ✅ |
-| 15 | Shortest Distance To Target String In A Circular Array | Easy | [Problem 2515](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | [C++](./Day15/ShortestDistanceToTargetStringInACircularArray.cpp) | ✅ |
-| 16 | Closest Equal Element Queries | Medium | [Problem 3488](https://leetcode.com/problems/closest-equal-element-in-array/) | [C++](./Day16/ClosestEqualElementQueries.cpp) | ✅ |
-| 17 | Minimum Absolute Distance Between Mirror Pairs | Medium | [Problem 3761](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | [C++](./Day17/MinimumAbsoluteDistanceBetweenMirrorPairs.cpp) | ✅ |
-| 18 | Mirror Distance Of An Integer | Easy | [Problem 3783](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [C++](./Day18/MirrorDistanceOfAnInteger.cpp) | ✅ |
-| 19 | Maximum Distance Between A Pair Of Values | Medium | [Problem 1855](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | [C++](./Day19/MaximumDistanceBetweenAPairOfValues.cpp) | ✅ |
-| 20 | Two Farthest Houses With Different Colors | Easy | [Problem 2078](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | [C++](./Day20/TwoFarthestHousesWithDifferentColors.cpp) | ✅ |
-| 21 | Minimize Hamming Distance After Swap Operations | Medium | [Problem 1722](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | [C++](./Day21/MinimizeHammingDistanceAfterSwapOperations.cpp) | ✅ |
-| 22 | Words Within Two Edits Of Dictionary | Medium | [Problem 2452](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | [C++](./Day22/WordsWithinTwoEditsOfDictionary.cpp) | ✅ |
-| 23 | Sum of Distances | Medium | [Problem 2615](https://leetcode.com/problems/sum-of-distances/) | [C++](./Day23/SumOfDistances.cpp) | ✅ |
-| 24 | Furthest Point From Origin | Easy | [Problem 2833](https://leetcode.com/problems/furthest-point-from-origin/) | [C++](./Day24/FurthestPointFromOrigin.cpp) | ✅ |
-| 25 | Maximize The Distance Between Points On A Square | Hard | [Problem 3464](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/) | [C++](./Day25/MaximizeTheDistanceBetweenPointsOnASquare.cpp) | ✅ |
-| 26 | Detect Cycles In A 2D Grid | Medium | [Problem 1559](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | [C++](./Day26/DetectCyclesInA2DGrid.cpp) | ✅ |
-| 27 | Check If There Is A Valid Path In a Grid | Medium | [Problem 1391](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | [C++](./Day27/CheckIfThereIsAValidPathInAGrid.cpp) | ✅ |
-| 28 | Minimum Operations To Make A Uni-Value Grid | Medium | [Problem 2033](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [C++](./Day28/MinimumOperationsToMakeAUni-ValueGrid.cpp) | ✅ |
-| 29 | Maximum Score From Grid Operations | Hard | [Problem 3225](https://leetcode.com/problems/maximum-score-from-grid-operations/) | [C++](./Day29/MaximumScoreFromGridOperations.cpp) | ✅ |
-| 30 | Maximum Path Score In A Grid | Medium | [Problem 3742](https://leetcode.com/problems/maximum-path-score-in-a-grid/) | [C++](./Day30/MaximumPathScoreInAGrid.cpp) | ✅ |
+| Day | Problem Name | Difficulty | Link | Status |
+|---|---|---|---|---|
+| 01 | Robot Collision | Medium | [Problem 2751](https://leetcode.com/problems/robot-collision) | ✅ |
+| 02 | Maximum Money Robot | Medium | [Problem 3418](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/) | ✅ |
+| 03 | Maximum Walls Destroyed by Robots | Hard | [Problem 3661](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/) | ✅ |
+| 04 | Decode Slanted CipherText | Medium | [Problem 2075](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | ✅ |
+| 05 | Robot Return To Origin | Easy | [Problem 657](https://leetcode.com/problems/robot-return-to-origin/) | ✅ |
+| 06 | Walking Robot Simulation | Medium | [Problem 874](https://leetcode.com/problems/walking-robot-simulation/) | ✅ |
+| 07 | Walking Robot Simulation II | Medium | [Problem 2069](https://leetcode.com/problems/walking-robot-simulation-ii/) | ✅ |
+| 08 | XOR After Range Multiplication Queries I | Medium | [Problem 3653](https://leetcode.com/problems/xor-after-operations/) | ✅ |
+| 09 | XOR After Range Multiplication Queries II | Hard | [Problem 3655](https://leetcode.com/problems/xor-after-operations-ii/) | ✅ |
+| 10 | Minimum Distance Between Three Equal Elements I | Easy | [Problem 3740](https://leetcode.com/problems/minimum-distance-between-three-equal-elements/) | ✅ |
+| 11 | Minimum Distance Between Three Equal Elements II | Medium | [Problem 3741](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/) | ✅ |
+| 12 | Minimum Distance To Type A Word Using Two Fingers | Hard | [Problem 1320](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | ✅ |
+| 13 | Minimum Distance To Target Element | Easy | [Problem 1848](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | ✅ |
+| 14 | Minimum Total Distance Traveled | Hard | [Problem 2463](https://leetcode.com/problems/minimum-total-distance-traveled/) | ✅ |
+| 15 | Shortest Distance To Target String In A Circular Array | Easy | [Problem 2515](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | ✅ |
+| 16 | Closest Equal Element Queries | Medium | [Problem 3488](https://leetcode.com/problems/closest-equal-element-in-array/) | ✅ |
+| 17 | Minimum Absolute Distance Between Mirror Pairs | Medium | [Problem 3761](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | ✅ |
+| 18 | Mirror Distance Of An Integer | Easy | [Problem 3783](https://leetcode.com/problems/mirror-distance-of-an-integer/) | ✅ |
+| 19 | Maximum Distance Between A Pair Of Values | Medium | [Problem 1855](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | ✅ |
+| 20 | Two Farthest Houses With Different Colors | Easy | [Problem 2078](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | ✅ |
+| 21 | Minimize Hamming Distance After Swap Operation | Medium | [Problem 1722](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | ✅ |
+| 22 | Words Within Two Edits Of Dictionary | Medium | [Problem 2452](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | ✅ |
+| 23 | Sum of Distances | Medium | [Problem 2615](https://leetcode.com/problems/sum-of-distances/) | ✅ |
+| 24 | Furthest Point From Origin | Easy | [Problem 2833](https://leetcode.com/problems/furthest-point-from-origin/) | ✅ |
+| 25 | Maximize The Distance Between Points On A Square | Hard | [Problem 3464](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/) | ✅ |
+| 26 | Detect Cycles In A 2D Grid | Medium | [Problem 1559](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | ✅ |
+| 27 | Check If There Is A Valid Path In A Grid | Medium | [Problem 1391](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | ✅ |
+| 28 | Minimum Operations To Make A Uni-Value Grid | Medium | [Problem 2033](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | ✅ |
+| 29 | Maximum Score From Grid Operations | Hard | [Problem 3225](https://leetcode.com/problems/maximum-score-from-grid-operations/) | ✅ |
+| 30 | Maximum Path Score In A Grid | Medium | [Problem 3742](https://leetcode.com/problems/maximum-path-score-in-a-grid/) | ✅ |
 ---
 
 ## 💡 Key Concepts & Techniques
